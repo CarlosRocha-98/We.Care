@@ -4,4 +4,4 @@ Página principal de um site para Pet Shop com estrutura responsiva (computadore
 
 <img width="1403" height="906" alt="image" src="https://github.com/CarlosRocha-98/We.Care/blob/main/We%20Care%20PC.png?raw=true"/>
 
-<img width="1566" height="819" alt="image" src="https://github.com/user-attachments/assets/9e90ea2e-3de1-494b-be04-cd8e454e195d" />
+<img width="1566" height="819" alt="image" src="https://github.com/CarlosRocha-98/We.Care/blob/main/We%20Care%20Resp.png?raw=true" />
